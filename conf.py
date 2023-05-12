@@ -10,7 +10,7 @@ __version__='2023.2'
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'UIBCDF - Taller de Librería Python'
+project = 'UIBCDF - Taller de Librería en Python'
 copyright = ''
 author = """
 Liliana M. Moreno Vargas & Diego Prada Gracia | <a href= "mailto:uibcdf@gmail.com">Contáctanos</a>.
@@ -104,7 +104,11 @@ pygments_style = 'default'
 html_theme = 'sphinx_book_theme'
 #html_theme = 'pydata_sphinx_theme'
 html_theme_options = {
-            "logo": {"alt_text": "UIBCDF-Talleres"},
+            "logo": {"alt_text": "UIBCDF Taller Librería de Python"},
+            "use_source_button": True,
+            "use_repository_button": True,
+            "repository_provider": "github",
+            "repository_url": "https://github.com/uibcdf/Taller-Libreria-Python"
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
