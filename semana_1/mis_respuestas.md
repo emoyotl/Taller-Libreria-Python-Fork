@@ -11,13 +11,7 @@ cómo hacerlo.
 
 > ¿Qué condiciones de uso otorga la licencia para código libre MIT? ¿Dónde se originó?
 
-### La Licencia MIT se originó en el Instituto Tecnológico de Massachusetts (MIT) a fines de la década de 1980.
-### Es una Licencia de software libre permisiva esto significa que impone muy pocas limitaciones en la
-### reutilización y permite reutilizar software dentro de Software propietario. Por otro lado, la licencia MIT es
-### compatible con muchas licencias copyleft, como la GNU General Public License (el software con licencia MIT puede
-### integrarse en software con licencia GPL, pero no al revés). El texto de la licencia no tiene copyright, lo 
-### que permite su modificación. Esta licencia siempre ha sido una licencia importante y se utiliza muy a 
-### menudo en el Software libre, en 2015 se convirtió en la licencia más popular.
+La Licencia MIT se originó en el Instituto Tecnológico de Massachusetts (MIT) a fines de la década de 1980. Es una Licencia de software libre permisiva esto significa que impone muy pocas limitaciones en la reutilización y permite reutilizar software dentro de Software propietario. Por otro lado, la licencia MIT es compatible con muchas licencias copyleft, como la GNU General Public License (el software con licencia MIT puede integrarse en software con licencia GPL, pero no al revés). El texto de la licencia no tiene copyright, lo que permite su modificación. Esta licencia siempre ha sido una licencia importante y se utiliza muy a menudo en el Software libre, en 2015 se convirtió en la licencia más popular.
 
 
 # Pregunta 2
